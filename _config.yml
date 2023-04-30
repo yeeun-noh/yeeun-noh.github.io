@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Yeeun Noh"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "프로그래밍/코딩 관련 개인 기록 블로그입니다!"
   location         : "Somewhere"
   email            :
   links:
